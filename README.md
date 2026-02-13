@@ -147,11 +147,6 @@ Visualization & Insights
 
 ---
 
-## 💼 ATS-Optimized Skill Tags
-
-Python | Pandas | NumPy | Data Analysis | EDA | Data Cleaning | Data Visualization | Business Intelligence | SQL Concepts | Analytical Thinking | KPI Analysis | Dashboard Reporting
-
----
 
 ## 🚀 How to Run the Project
 
