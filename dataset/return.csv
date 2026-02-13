@@ -1,0 +1,5 @@
+OrderID,ReturnStatus,Reason
+O003,Yes,Damaged
+O007,Yes,Wrong Item
+O013,Yes,Late Delivery
+O016,Yes,Payment Failed
